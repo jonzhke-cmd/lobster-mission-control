@@ -57,7 +57,7 @@ export default function AgentsPage() {
             </div>
             <div className="space-y-0.5">
               <p className="text-sm text-gray-400">
-                <span className="text-gray-600">Model:</span> Claude Sonnet 4.6
+                <span className="text-gray-600">Model:</span> DeepSeek Chat
               </p>
               <p className="text-sm text-gray-400">
                 <span className="text-gray-600">Platform:</span> OpenClaw / Telegram

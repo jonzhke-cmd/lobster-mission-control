@@ -3,7 +3,7 @@ export default function ApiUsagePage() {
     { name: "fal.ai", today: "$2.80", month: "$18.40", calls: 12, color: "#3b82f6" },
     { name: "ElevenLabs", today: "$0.90", month: "$6.20", calls: 8, color: "#a855f7" },
     { name: "OpenAI", today: "$0.50", month: "$11.30", calls: 27, color: "#22c55e" },
-    { name: "Anthropic", today: "$0.00", month: "$42.10", calls: 0, color: "#f59e0b" },
+    { name: "DeepSeek", today: "$0.34", month: "$0.34", calls: 12, color: "#10b981" },
   ];
   return (
     <div className="max-w-4xl mx-auto">
